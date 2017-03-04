@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :todos
   get 'store/index'
 
   resources :products
