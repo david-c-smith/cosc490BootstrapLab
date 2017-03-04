@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../addressbook_42_bootstrap/.idea/addressbook_42_bootstrap.iml" filepath="$PROJECT_DIR$/../addressbook_42_bootstrap/.idea/addressbook_42_bootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../addressbook_rails42_lab/.idea/addressbook_rails41.iml" filepath="$PROJECT_DIR$/../addressbook_rails42_lab/.idea/addressbook_rails41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../addressbook_rails42_complete/.idea/addressbook_rails41 (from Secinj-laptop1).iml" filepath="$PROJECT_DIR$/../addressbook_rails42_complete/.idea/addressbook_rails41 (from Secinj-laptop1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/addressbook_rails42.iml" filepath="$PROJECT_DIR$/.idea/addressbook_rails42.iml" />
+      <module fileurl="file://$USER_HOME$/lec5 - project kickoff/sessions_lab_rails42/.idea/sessions_lab_rails42.iml" filepath="$USER_HOME$/lec5 - project kickoff/sessions_lab_rails42/.idea/sessions_lab_rails42.iml" />
+      <module fileurl="file://$USER_HOME$/lec5 - project kickoff/sessionsdemo_rails41/.idea/sessionsdemo_rails41.iml" filepath="$USER_HOME$/lec5 - project kickoff/sessionsdemo_rails41/.idea/sessionsdemo_rails41.iml" />
+    </modules>
+  </component>
+</project>

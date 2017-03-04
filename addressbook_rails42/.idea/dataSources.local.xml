@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails addressbook_rails41: development" uuid="e52194d0-a862-4657-af3f-c976c3b8a896">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <secret-storage>memory</secret-storage>
+    </data-source>
+  </component>
+</project>
